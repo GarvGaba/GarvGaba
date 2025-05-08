@@ -1,19 +1,20 @@
 #<h1 align="center">Hi 👋, I'm Garv Gaba</h1>
-<h3 align="center">A passionate Full Stack Developer & Cloud Enthusiast 🚀</h3>
+<h3 align="center">A passionate Full Stack Developer & AI Enthusiast 🚀</h3>
 
 - 🔭 I’m currently working on **Laravel-based job portals and MERN stack projects**
 - 🌱 I’m currently learning **DevOps and AI integration**
 - 💬 Ask me about **PHP, Laravel, React, Cloud, and DSA**
 - ⚡ Fun fact **I turn ideas into scalable web apps with a creative spark 💡**
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5yMGg3YWkxa3huYnU3YzN0am1paDg4b243a2U2cDRwOXhobjF2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 ---
 
 ### 🌐 Connect with me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://garv-gaba.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://garv-gaba.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/garv-gaba/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Garv_835/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/12223855_Garv)
-
 
 ---
 ### 💻 Tech Stack
